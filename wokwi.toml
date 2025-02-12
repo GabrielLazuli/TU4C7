@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/TU4C7.uf2'
+elf = 'build/TU4C7.elf'
